@@ -2,9 +2,6 @@
 
 - 🔭 I’m currently working on Tesla Tracker
 - 🌱 I’m currently learning Github Advanced Security and Cisco DevNet Professional
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ryjay84@gmail.com
 
 #### ⚙️ My Tech Stack
