@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Tesla Tracker
-- 🌱 I’m currently AZ 204
+- 🌱 I’m currently learning AZ 204
 - 📫 How to reach me: ryjay84@gmail.com
 
 #### ⚙️ My Tech Stack
